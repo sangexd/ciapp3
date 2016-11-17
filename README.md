@@ -1,2 +1,2 @@
 # ciapp3
-Code igniter! :D
+trabajando con cideigniter
