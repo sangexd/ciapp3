@@ -9,7 +9,7 @@
 			$datos=array();
 			$datos['fecha']=$f;
 			//$this->load->view('fecha',$datos);
-			$datos['nombre']="Lus Felipe";
+			$datos['nombre']="Guzman Mita";
 			$this->load->view('fecha',$datos);
 		}
 	}
